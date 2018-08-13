@@ -1,8 +1,8 @@
 * Updating the generator in PPGN-h with gradients flowing through the encoder
 
-In this master's thesis we explore the possibility of connecting discriminators at different layers of the encoder, using the /Plug & Play generative network: Conditional Iterative Generation of Images in Latent Space/ by A. Nguyen et. al<sup>1</sup>
+In this master's thesis we explore the possibility of connecting discriminators at different layers of the encoder, using the /Plug & Play generative network: Conditional Iterative Generation of Images in Latent Space/ by A. Nguyen et. al [1].
 
 * Credits
 This code builds upon the works done by [[github.com/caogang/wgan-gp][coagan]], [[github.com/pytorch/examples/tree/master/mnist][pytorch]] and [[https://github.com/martinarjovsky/WassersteinGAN][martinarjovsky]].
  
-<sup>1</sup>: A. Nguyen, J. Yosinski, Y. Bengio, A. Dosovitskiy, and J. Clune. Plug & play generative networks: Conditional iterative generation of images in latent space. arXiv preprint arXiv:1612.00005, 2016.
+[1]: A. Nguyen, J. Yosinski, Y. Bengio, A. Dosovitskiy, and J. Clune. Plug & play generative networks: Conditional iterative generation of images in latent space. arXiv preprint arXiv:1612.00005, 2016.
