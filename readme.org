@@ -1,3 +1,9 @@
 * Updating the generator in PPGN-h with gradients flowing through the encoder
 
-In this master's thesis we explore the possibility of connecting discriminators at different layers of the encoder, using the /Plug & Play generative network/ by A. Nguyen et. al. 
+In this master's thesis we explore the possibility of connecting discriminators at different layers of the encoder, using the /Plug & Play generative network/ by A. 
+Nguyen et. al. 
+
+* Credits
+This code builds upon the works done by [[github.com/caogang/wgan-gp][coagan]], [[github.com/pytorch/examples/tree/master/mnist][pytorch]] and [[https://github.com/martinarjovsky/WassersteinGAN][martinarjovsky]]      
+
+ 
