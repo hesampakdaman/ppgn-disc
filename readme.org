@@ -8,6 +8,6 @@ In this master's thesis we explore the possibility of connecting discriminators 
 ** Code
 ** Conclusion
 ** Credits
- This code builds upon the works done by [[github.com/caogang/wgan-gp][coagan]], [[github.com/pytorch/examples/tree/master/mnist][pytorch]] and [[https://github.com/martinarjovsky/WassersteinGAN][martinarjovsky]].
+ This code builds upon the works done by [[https://github.com/caogang/wgan-gp][coagan]], [[github.com/pytorch/examples/tree/master/mnist][pytorch]] and [[https://github.com/martinarjovsky/WassersteinGAN][martinarjovsky]].
  
  [1]: A. Nguyen, J. Yosinski, Y. Bengio, A. Dosovitskiy, and J. Clune. Plug & play generative networks: Conditional iterative generation of images in latent space. arXiv preprint arXiv:1612.00005, 2016.
